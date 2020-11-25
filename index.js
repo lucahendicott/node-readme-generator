@@ -1,5 +1,6 @@
 const inquirer = require("inquirer")
 const fs = require("fs")
+const generateMarkdown = require("./utils/generateMarkdown")
 
 inquirer.prompt([
     {
@@ -25,4 +26,11 @@ inquirer.prompt([
     },
 ]) 
 .then((res) => {
-    console.log(res)})
+    console.log(res)
+    
+    fs.writeFile("README.md", generateMarkdown(res), (err) => {
+        if (err) throw err;
+        console.log("complete")
+    })
+})
+
