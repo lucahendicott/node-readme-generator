@@ -37,7 +37,7 @@ ${data.licenseInput}
 ${data.testInput}  
 
 ## Questions  
-Contact information for any questions about this application:   
+Contact information for any questions about this application:
 * https://github.com/${data.githubInput}  
 * ${data.emailInput}  
 
