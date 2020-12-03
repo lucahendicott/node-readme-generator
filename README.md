@@ -3,7 +3,7 @@
 # README Generator  
 
 ## Decsription  
-Node environment application using npm inquirer to generate a quality README.md for any user      
+Node environment application using npm inquirer to generate a quality README.md for any user.      
 
 ## Table of Contents  
 * [Installation](#installation)  
@@ -18,7 +18,7 @@ Node environment application using npm inquirer to generate a quality README.md 
 Clone this repo to your local device. Run "npm install inquirer" in the integrated terminal to install the node modules required to run the program. Once modules are installed, run "node index.js" in the terminal to start the prompts.   
 
 ## Usage  
-Once modules are installed and the prompts run after runnind node index.js ..users can continually use this application to generate a readme for any project. Once the prompts are complete the program will write the new README.md file with all information the user has input.  
+Once node modules are installed and the prompts run after running node index.js ..users can continually use this application to generate a readme for any project. Once the prompts are complete the program will write the new README.md file with all information the user has input.  
 
 ## Credits  
 npm inquirer docs https://www.npmjs.com/package/inquirer#answers  
