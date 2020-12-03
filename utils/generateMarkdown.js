@@ -5,7 +5,7 @@ function generateMarkdown(data) {
 ![badge](https://img.shields.io/badge/license-${data.licenseInput}-brightgreen)   
 # ${data.titleInput}  
 
-## Decsription  
+## Description  
 ${data.descriptionInput}    
 
 ## Table of Contents  
