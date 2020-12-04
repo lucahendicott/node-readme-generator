@@ -21,7 +21,7 @@ Once node modules are installed properly and the prompts initiate after running 
 
 ![alt text](readme-gif.gif)
 
-![Link to Usage video](https://drive.google.com/file/d/1oAytnzKCijZR175e1ZsAHij313S1qSs3/view)
+[Link to Usage video](https://drive.google.com/file/d/1oAytnzKCijZR175e1ZsAHij313S1qSs3/view)
 
 ## Credits  
 npm inquirer docs https://www.npmjs.com/package/inquirer#answers    
